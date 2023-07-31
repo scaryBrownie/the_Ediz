@@ -8,4 +8,4 @@ The video of a game I made approximately 3 year ago.
 
 *You can review on YouTube video.*
 
-[linkedin](www.linkedin.com/in/scarybrownie)
+[LinkedIn](www.linkedin.com/in/scarybrownie)
