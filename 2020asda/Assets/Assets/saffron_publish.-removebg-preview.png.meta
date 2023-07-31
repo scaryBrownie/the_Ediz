@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 4d8ec0c6bc9a6e945a875eba1367443d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2236844371441319547
+    second: saffron_publish.-removebg-preview_0
+  - first:
+      213: -6592902255783806834
+    second: saffron_publish.-removebg-preview_1
+  - first:
+      213: -5040433697048483499
+    second: saffron_publish.-removebg-preview_2
+  - first:
+      213: -927298175966478953
+    second: saffron_publish.-removebg-preview_3
+  - first:
+      213: 9051655658663938335
+    second: saffron_publish.-removebg-preview_4
+  - first:
+      213: 8751001376158287059
+    second: saffron_publish.-removebg-preview_5
+  - first:
+      213: -37788275241058837
+    second: saffron_publish.-removebg-preview_6
+  - first:
+      213: -8352901344903372561
+    second: saffron_publish.-removebg-preview_7
+  - first:
+      213: -1006221124893826902
+    second: saffron_publish.-removebg-preview_8
+  - first:
+      213: -1777579957477812281
+    second: saffron_publish.-removebg-preview_9
+  - first:
+      213: -883605941976089606
+    second: saffron_publish.-removebg-preview_10
+  - first:
+      213: 6146910504882889362
+    second: saffron_publish.-removebg-preview_0
+  - first:
+      213: 405696442583073509
+    second: saffron_publish.-removebg-preview_1
+  - first:
+      213: 1924274175799440537
+    second: saffron_publish.-removebg-preview_2
+  - first:
+      213: -8566586266234125263
+    second: saffron_publish.-removebg-preview_3
+  - first:
+      213: 2286704897418655837
+    second: saffron_publish.-removebg-preview_4
+  - first:
+      213: -3820892289086240648
+    second: saffron_publish.-removebg-preview_5
+  - first:
+      213: 4208426708139571157
+    second: saffron_publish.-removebg-preview_6
+  - first:
+      213: -8460287825979408982
+    second: saffron_publish.-removebg-preview_7
+  - first:
+      213: -1322332856254565939
+    second: saffron_publish.-removebg-preview_8
+  - first:
+      213: 2794759961302541075
+    second: saffron_publish.-removebg-preview_9
+  - first:
+      213: -6250660756168166275
+    second: saffron_publish.-removebg-preview_10
+  - first:
+      213: 7388772712343815187
+    second: saffron_publish.-removebg-preview_11
+  - first:
+      213: 987995301462086841
+    second: saffron_publish.-removebg-preview_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29269a559863e4550800000000000000
+      internalID: 6146910504882889362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2cdcad3c251a500800000000000000
+      internalID: 405696442583073509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994bbfaea2564ba10800000000000000
+      internalID: 1924274175799440537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340067bd2f5d1980800000000000000
+      internalID: -8566586266234125263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58f8cc1df10cbf10800000000000000
+      internalID: 2286704897418655837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8784cfff4b679fac0800000000000000
+      internalID: -3820892289086240648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fce93bc5576a30800000000000000
+      internalID: 4208426708139571157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7feafb05079a80800000000000000
+      internalID: -8460287825979408982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc17e14f54126ade0800000000000000
+      internalID: -1322332856254565939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3132ce5a06bf8c620800000000000000
+      internalID: 2794759961302541075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d743f11e8213149a0800000000000000
+      internalID: -6250660756168166275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144a5d62a13a8660800000000000000
+      internalID: 7388772712343815187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saffron_publish.-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41767fd7016bd00800000000000000
+      internalID: 987995301462086841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
