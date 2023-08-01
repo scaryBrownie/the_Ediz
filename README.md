@@ -6,6 +6,6 @@ The video of a game I made approximately 3 year ago.
 
 [![the Ediz](https://img.youtube.com/vi/aNq50idmfHQ/0.jpg)](https://www.youtube.com/watch?v=aNq50idmfHQ)
 
-[*You can review on YouTube video.*]([www.linkedin.com/in/scarybrownie](https://youtu.be/aNq50idmfHQ))
+[*You can review on YouTube video.*]((https://youtu.be/aNq50idmfHQ))
 
 [LinkedIn](www.linkedin.com/in/scarybrownie)
